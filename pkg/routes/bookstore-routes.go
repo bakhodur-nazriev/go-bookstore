@@ -1,6 +1,7 @@
 package routes
 
 import (
+	"github.com/bakhodru-nazriev/go-bookstore/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
