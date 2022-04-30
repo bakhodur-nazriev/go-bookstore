@@ -3,8 +3,8 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/bakhodru-nazriev/go-bookstore/pkg/models"
-	"github.com/bakhodru-nazriev/go-bookstore/pkg/utils"
+	"github.com/bakhodur.nazriev/go-bookstore/pkg/models"
+	"github.com/bakhodur.nazriev/go-bookstore/pkg/utils"
 	"github.com/gorilla/mux"
 	"net/http"
 	"strconv"
